@@ -12,8 +12,8 @@ Be able to quickly see a list of all of the places that I could feasibly reach g
 1. What variables do we want the user to be able to control
 	- Location
 	- Distance
-			1. Do we assume driving?
-			2. In miles, kilometers, hours?
+		1. Do we assume driving?
+		2. In miles, kilometers, hours?
 	- Temperature
 		1. Farenheit?
 		2. Celsius?
