@@ -17,7 +17,10 @@ Be able to quickly see a list of all of the places that I could feasibly reach g
 	- Temperature
 		1. Farenheit?
 		2. Celsius?
+2. Should we use an API or a database of location records and let SQL run the haversine formula on lat/long?
 
 ### Tasks:
 1. Find a good weather API
 	- [Wunderground API](https://www.wunderground.com/weather/api/)
+2. Research computing distance from current location
+	- [Haversine formula for finding nearest location](http://www.plumislandmedia.net/mysql/haversine-mysql-nearest-loc/)
