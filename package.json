@@ -1,0 +1,14 @@
+{
+  "name": "weatherornot",
+  "version": "0.1.0",
+  "author": "Spence Kiddle",
+  "description": "Find the best weather and go there",
+  "repository": {
+  	"type": "git",
+  	"url": "https://github.com/spencekiddle/weatherornot.git"
+  },
+  "devDependencies": {
+    "underscore": "^1.8.3"
+  },
+  "license": "Special"
+}
