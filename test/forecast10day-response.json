@@ -1,0 +1,960 @@
+
+{
+  "response": {
+  "version":"0.1",
+  "termsofService":"http://www.wunderground.com/weather/api/d/terms.html",
+  "features": {
+  "forecast10day": 1
+  }
+  }
+    ,
+  "forecast":{
+    "txt_forecast": {
+    "date":"8:41 PM PST",
+    "forecastday": [
+    {
+    "period":0,
+    "icon":"snow",
+    "icon_url":"http://icons.wxug.com/i/c/k/snow.gif",
+    "title":"Sunday",
+    "fcttext":"Snow likely. Lows overnight in the upper 20s.",
+    "fcttext_metric":"Periods of snow. Low -2C.",
+    "pop":"100"
+    }
+    ,
+    {
+    "period":1,
+    "icon":"nt_snow",
+    "icon_url":"http://icons.wxug.com/i/c/k/nt_snow.gif",
+    "title":"Sunday Night",
+    "fcttext":"Snow showers early, with a steadier snow developing late. Low 29F. Winds ESE at 10 to 15 mph. Chance of snow 100%. 3 to 5 inches of snow expected.",
+    "fcttext_metric":"Cloudy with snow showers this evening and steady snow likely after midnight. Low -2C. Winds ESE at 15 to 25 km/h. Chance of snow 100%. 7-12cm of snow expected.",
+    "pop":"100"
+    }
+    ,
+    {
+    "period":2,
+    "icon":"snow",
+    "icon_url":"http://icons.wxug.com/i/c/k/snow.gif",
+    "title":"Monday",
+    "fcttext":"Snow. Winds will increase during the afternoon. Temps nearly steady in the low to mid 30s. SE winds shifting to SW at 20 to 30 mph. Chance of snow 90%. 3 to 5 inches of snow expected. Winds could occasionally gust over 40 mph.",
+    "fcttext_metric":"Snow likely. High 1C. SE winds shifting to SW at 25 to 40 km/h. Chance of snow 90%. 7-12cm of snow expected. Winds could occasionally gust over 65 km/h.",
+    "pop":"90"
+    }
+    ,
+    {
+    "period":3,
+    "icon":"nt_snow",
+    "icon_url":"http://icons.wxug.com/i/c/k/nt_snow.gif",
+    "title":"Monday Night",
+    "fcttext":"Snow showers early will become steadier snow overnight. Low 29F. Winds ESE at 10 to 20 mph. Chance of snow 90%. 3 to 5 inches of snow expected.",
+    "fcttext_metric":"Cloudy with snow showers in the evening and steady snow likely after midnight. Low -1C. Winds ESE at 15 to 25 km/h. Chance of snow 90%. 7-12cm of snow expected.",
+    "pop":"90"
+    }
+    ,
+    {
+    "period":4,
+    "icon":"snow",
+    "icon_url":"http://icons.wxug.com/i/c/k/snow.gif",
+    "title":"Tuesday",
+    "fcttext":"Cloudy with snow. Temps nearly steady around 30. Winds W at 10 to 20 mph. Chance of snow 100%. 5 to 8 inches of snow expected.",
+    "fcttext_metric":"Cloudy with snow. High around 0C. SSW winds shifting to WNW at 15 to 30 km/h. Chance of snow 100%. Snow accumulating 12-20cm.",
+    "pop":"100"
+    }
+    ,
+    {
+    "period":5,
+    "icon":"nt_snow",
+    "icon_url":"http://icons.wxug.com/i/c/k/nt_snow.gif",
+    "title":"Tuesday Night",
+    "fcttext":"Variably cloudy with snow showers. Low 23F. Winds WNW at 10 to 20 mph. Chance of snow 60%. Snowfall around one inch.",
+    "fcttext_metric":"Variable clouds with snow showers. Low around -5C. Winds WNW at 15 to 25 km/h. Chance of snow 60%. 2-3cm of snow expected.",
+    "pop":"60"
+    }
+    ,
+    {
+    "period":6,
+    "icon":"snow",
+    "icon_url":"http://icons.wxug.com/i/c/k/snow.gif",
+    "title":"Wednesday",
+    "fcttext":"A few snow showers scattered about the area in the morning, otherwise a good deal of clouds. High 28F. Winds NW at 5 to 10 mph. Chance of snow 30%.",
+    "fcttext_metric":"Scattered flurries and snow showers. High -2C. Winds NW at 10 to 15 km/h. Chance of snow 30%.",
+    "pop":"30"
+    }
+    ,
+    {
+    "period":7,
+    "icon":"nt_chancesnow",
+    "icon_url":"http://icons.wxug.com/i/c/k/nt_chancesnow.gif",
+    "title":"Wednesday Night",
+    "fcttext":"Cloudy. Snow showers developing after midnight. Low 18F. Winds NW at 5 to 10 mph. Chance of snow 50%.",
+    "fcttext_metric":"Cloudy skies with late-night snow showers. Low -7C. Winds NNW at 10 to 15 km/h. Chance of snow 50%. Snow accumulations less than 2cm.",
+    "pop":"50"
+    }
+    ,
+    {
+    "period":8,
+    "icon":"snow",
+    "icon_url":"http://icons.wxug.com/i/c/k/snow.gif",
+    "title":"Thursday",
+    "fcttext":"Cloudy with snow showers becoming a steady accumulating snow later on. High 26F. Winds NNW at 5 to 10 mph. Chance of snow 60%. Snow accumulating 1 to 3 inches.",
+    "fcttext_metric":"Snow showers early, with a steadier snow developing late in the day. High -3C. Winds NNW at 10 to 15 km/h. Chance of snow 60%. Snow accumulating 3-7cm.",
+    "pop":"60"
+    }
+    ,
+    {
+    "period":9,
+    "icon":"nt_snow",
+    "icon_url":"http://icons.wxug.com/i/c/k/nt_snow.gif",
+    "title":"Thursday Night",
+    "fcttext":"Snow in the evening will give way to lingering snow showers overnight. Low 16F. Winds E at 5 to 10 mph. Chance of snow 70%. 1 to 3 inches of snow expected.",
+    "fcttext_metric":"Snow in the evening will transition to snow showers overnight. Low -8C. Winds E at 10 to 15 km/h. Chance of snow 70%. 3-7cm of snow expected.",
+    "pop":"70"
+    }
+    ,
+    {
+    "period":10,
+    "icon":"snow",
+    "icon_url":"http://icons.wxug.com/i/c/k/snow.gif",
+    "title":"Friday",
+    "fcttext":"Variably cloudy with snow showers. High 26F. Winds E at 5 to 10 mph. Chance of snow 60%. Snow accumulating 1 to 3 inches.",
+    "fcttext_metric":"Occasional snow showers. High -3C. Winds E at 10 to 15 km/h. Chance of snow 60%. 3-7cm of snow expected.",
+    "pop":"60"
+    }
+    ,
+    {
+    "period":11,
+    "icon":"nt_partlycloudy",
+    "icon_url":"http://icons.wxug.com/i/c/k/nt_partlycloudy.gif",
+    "title":"Friday Night",
+    "fcttext":"A few clouds from time to time. Low 17F. Winds E at 5 to 10 mph.",
+    "fcttext_metric":"Partly cloudy skies. Low -8C. Winds E at 10 to 15 km/h.",
+    "pop":"20"
+    }
+    ,
+    {
+    "period":12,
+    "icon":"clear",
+    "icon_url":"http://icons.wxug.com/i/c/k/clear.gif",
+    "title":"Saturday",
+    "fcttext":"Except for a few afternoon clouds, mainly sunny. High 27F. Winds NE at 5 to 10 mph.",
+    "fcttext_metric":"Mostly sunny skies. High -2C. Winds NE at 10 to 15 km/h.",
+    "pop":"20"
+    }
+    ,
+    {
+    "period":13,
+    "icon":"nt_snow",
+    "icon_url":"http://icons.wxug.com/i/c/k/nt_snow.gif",
+    "title":"Saturday Night",
+    "fcttext":"Cloudy with snow showers becoming a steady accumulating snow later on. Low 18F. Winds SW at 5 to 10 mph. Chance of snow 70%. 1 to 3 inches of snow expected.",
+    "fcttext_metric":"Cloudy with snow showers in the evening and steady snow likely after midnight. Low -7C. Winds SSW at 10 to 15 km/h. Chance of snow 70%. Snow accumulating 3-7cm.",
+    "pop":"70"
+    }
+    ,
+    {
+    "period":14,
+    "icon":"snow",
+    "icon_url":"http://icons.wxug.com/i/c/k/snow.gif",
+    "title":"Sunday",
+    "fcttext":"Snow likely. High 28F. Winds W at 5 to 10 mph. Chance of snow 70%. 3 to 5 inches of snow expected.",
+    "fcttext_metric":"Cloudy with snow. High -2C. Winds W at 10 to 15 km/h. Chance of snow 70%. Snow accumulating 3-7cm.",
+    "pop":"70"
+    }
+    ,
+    {
+    "period":15,
+    "icon":"nt_snow",
+    "icon_url":"http://icons.wxug.com/i/c/k/nt_snow.gif",
+    "title":"Sunday Night",
+    "fcttext":"Occasional snow showers. Low 17F. Winds E at 5 to 10 mph. Chance of snow 60%. Snow accumulating 1 to 3 inches.",
+    "fcttext_metric":"Occasional snow showers. Low -8C. Winds E at 10 to 15 km/h. Chance of snow 60%. 3-7cm of snow expected.",
+    "pop":"60"
+    }
+    ,
+    {
+    "period":16,
+    "icon":"snow",
+    "icon_url":"http://icons.wxug.com/i/c/k/snow.gif",
+    "title":"Monday",
+    "fcttext":"Variable clouds with snow showers. High 26F. Winds N at 10 to 15 mph. Chance of snow 60%. 1 to 3 inches of snow expected.",
+    "fcttext_metric":"Snow showers. High -3C. Winds N at 10 to 15 km/h. Chance of snow 60%. Snow accumulating 3-7cm.",
+    "pop":"60"
+    }
+    ,
+    {
+    "period":17,
+    "icon":"nt_snow",
+    "icon_url":"http://icons.wxug.com/i/c/k/nt_snow.gif",
+    "title":"Monday Night",
+    "fcttext":"Occasional snow showers. Low around 15F. Winds S at 5 to 10 mph. Chance of snow 60%. About one inch of snow expected.",
+    "fcttext_metric":"Snow showers. Low -9C. Winds SSE at 10 to 15 km/h. Chance of snow 60%. Snowfall of 2-3cm.",
+    "pop":"60"
+    }
+    ,
+    {
+    "period":18,
+    "icon":"snow",
+    "icon_url":"http://icons.wxug.com/i/c/k/snow.gif",
+    "title":"Tuesday",
+    "fcttext":"Variably cloudy with snow showers. High 27F. Winds WNW at 10 to 15 mph. Chance of snow 40%. About one inch of snow expected.",
+    "fcttext_metric":"Variably cloudy with snow showers. High -2C. Winds WNW at 10 to 15 km/h. Chance of snow 40%. Snowfall of 2-3cm.",
+    "pop":"40"
+    }
+    ,
+    {
+    "period":19,
+    "icon":"nt_snow",
+    "icon_url":"http://icons.wxug.com/i/c/k/nt_snow.gif",
+    "title":"Tuesday Night",
+    "fcttext":"Variable clouds with snow showers or flurries. Low 19F. Winds NW at 5 to 10 mph. Chance of snow 60%. Snow accumulating 1 to 3 inches.",
+    "fcttext_metric":"Variable clouds with snow showers or flurries. Low -7C. Winds NNW at 10 to 15 km/h. Chance of snow 60%. 2-3cm of snow expected.",
+    "pop":"60"
+    }
+    ]
+    },
+    "simpleforecast": {
+    "forecastday": [
+    {"date":{
+  "epoch":"1487559600",
+  "pretty":"7:00 PM PST on February 19, 2017",
+  "day":19,
+  "month":2,
+  "year":2017,
+  "yday":49,
+  "hour":19,
+  "min":"00",
+  "sec":0,
+  "isdst":"0",
+  "monthname":"February",
+  "monthname_short":"Feb",
+  "weekday_short":"Sun",
+  "weekday":"Sunday",
+  "ampm":"PM",
+  "tz_short":"PST",
+  "tz_long":"America/Los_Angeles"
+},
+    "period":1,
+    "high": {
+    "fahrenheit":"40",
+    "celsius":"4"
+    },
+    "low": {
+    "fahrenheit":"29",
+    "celsius":"-2"
+    },
+    "conditions":"Snow",
+    "icon":"snow",
+    "icon_url":"http://icons.wxug.com/i/c/k/snow.gif",
+    "skyicon":"",
+    "pop":100,
+    "qpf_allday": {
+    "in": 0.40,
+    "mm": 10
+    },
+    "qpf_day": {
+    "in": null,
+    "mm": null
+    },
+    "qpf_night": {
+    "in": 0.40,
+    "mm": 10
+    },
+    "snow_allday": {
+    "in": 4.0,
+    "cm": 10.2
+    },
+    "snow_day": {
+    "in": null,
+    "cm": null
+    },
+    "snow_night": {
+    "in": 4.0,
+    "cm": 10.2
+    },
+    "maxwind": {
+    "mph": 0,
+    "kph": 0,
+    "dir": "",
+    "degrees": 0
+    },
+    "avewind": {
+    "mph": 0,
+    "kph": 0,
+    "dir": "South",
+    "degrees": 180
+    },
+    "avehumidity": 98,
+    "maxhumidity": 0,
+    "minhumidity": 0
+    }
+    ,
+    {"date":{
+  "epoch":"1487646000",
+  "pretty":"7:00 PM PST on February 20, 2017",
+  "day":20,
+  "month":2,
+  "year":2017,
+  "yday":50,
+  "hour":19,
+  "min":"00",
+  "sec":0,
+  "isdst":"0",
+  "monthname":"February",
+  "monthname_short":"Feb",
+  "weekday_short":"Mon",
+  "weekday":"Monday",
+  "ampm":"PM",
+  "tz_short":"PST",
+  "tz_long":"America/Los_Angeles"
+},
+    "period":2,
+    "high": {
+    "fahrenheit":"34",
+    "celsius":"1"
+    },
+    "low": {
+    "fahrenheit":"29",
+    "celsius":"-2"
+    },
+    "conditions":"Snow",
+    "icon":"snow",
+    "icon_url":"http://icons.wxug.com/i/c/k/snow.gif",
+    "skyicon":"",
+    "pop":90,
+    "qpf_allday": {
+    "in": 0.71,
+    "mm": 18
+    },
+    "qpf_day": {
+    "in": 0.38,
+    "mm": 10
+    },
+    "qpf_night": {
+    "in": 0.33,
+    "mm": 8
+    },
+    "snow_allday": {
+    "in": 7.0,
+    "cm": 17.8
+    },
+    "snow_day": {
+    "in": 3.7,
+    "cm": 9.4
+    },
+    "snow_night": {
+    "in": 3.2,
+    "cm": 8.1
+    },
+    "maxwind": {
+    "mph": 30,
+    "kph": 48,
+    "dir": "S",
+    "degrees": 191
+    },
+    "avewind": {
+    "mph": 20,
+    "kph": 32,
+    "dir": "S",
+    "degrees": 191
+    },
+    "avehumidity": 96,
+    "maxhumidity": 0,
+    "minhumidity": 0
+    }
+    ,
+    {"date":{
+  "epoch":"1487732400",
+  "pretty":"7:00 PM PST on February 21, 2017",
+  "day":21,
+  "month":2,
+  "year":2017,
+  "yday":51,
+  "hour":19,
+  "min":"00",
+  "sec":0,
+  "isdst":"0",
+  "monthname":"February",
+  "monthname_short":"Feb",
+  "weekday_short":"Tue",
+  "weekday":"Tuesday",
+  "ampm":"PM",
+  "tz_short":"PST",
+  "tz_long":"America/Los_Angeles"
+},
+    "period":3,
+    "high": {
+    "fahrenheit":"31",
+    "celsius":"-1"
+    },
+    "low": {
+    "fahrenheit":"23",
+    "celsius":"-5"
+    },
+    "conditions":"Snow",
+    "icon":"snow",
+    "icon_url":"http://icons.wxug.com/i/c/k/snow.gif",
+    "skyicon":"",
+    "pop":100,
+    "qpf_allday": {
+    "in": 0.66,
+    "mm": 17
+    },
+    "qpf_day": {
+    "in": 0.58,
+    "mm": 15
+    },
+    "qpf_night": {
+    "in": 0.08,
+    "mm": 2
+    },
+    "snow_allday": {
+    "in": 6.5,
+    "cm": 16.5
+    },
+    "snow_day": {
+    "in": 5.7,
+    "cm": 14.5
+    },
+    "snow_night": {
+    "in": 0.9,
+    "cm": 2.3
+    },
+    "maxwind": {
+    "mph": 20,
+    "kph": 32,
+    "dir": "W",
+    "degrees": 277
+    },
+    "avewind": {
+    "mph": 14,
+    "kph": 23,
+    "dir": "W",
+    "degrees": 277
+    },
+    "avehumidity": 94,
+    "maxhumidity": 0,
+    "minhumidity": 0
+    }
+    ,
+    {"date":{
+  "epoch":"1487818800",
+  "pretty":"7:00 PM PST on February 22, 2017",
+  "day":22,
+  "month":2,
+  "year":2017,
+  "yday":52,
+  "hour":19,
+  "min":"00",
+  "sec":0,
+  "isdst":"0",
+  "monthname":"February",
+  "monthname_short":"Feb",
+  "weekday_short":"Wed",
+  "weekday":"Wednesday",
+  "ampm":"PM",
+  "tz_short":"PST",
+  "tz_long":"America/Los_Angeles"
+},
+    "period":4,
+    "high": {
+    "fahrenheit":"28",
+    "celsius":"-2"
+    },
+    "low": {
+    "fahrenheit":"18",
+    "celsius":"-8"
+    },
+    "conditions":"Snow Showers",
+    "icon":"snow",
+    "icon_url":"http://icons.wxug.com/i/c/k/snow.gif",
+    "skyicon":"",
+    "pop":30,
+    "qpf_allday": {
+    "in": 0.03,
+    "mm": 1
+    },
+    "qpf_day": {
+    "in": 0.01,
+    "mm": 0
+    },
+    "qpf_night": {
+    "in": 0.03,
+    "mm": 1
+    },
+    "snow_allday": {
+    "in": 0.4,
+    "cm": 1.0
+    },
+    "snow_day": {
+    "in": 0.1,
+    "cm": 0.3
+    },
+    "snow_night": {
+    "in": 0.3,
+    "cm": 0.8
+    },
+    "maxwind": {
+    "mph": 10,
+    "kph": 16,
+    "dir": "NW",
+    "degrees": 321
+    },
+    "avewind": {
+    "mph": 8,
+    "kph": 13,
+    "dir": "NW",
+    "degrees": 321
+    },
+    "avehumidity": 86,
+    "maxhumidity": 0,
+    "minhumidity": 0
+    }
+    ,
+    {"date":{
+  "epoch":"1487905200",
+  "pretty":"7:00 PM PST on February 23, 2017",
+  "day":23,
+  "month":2,
+  "year":2017,
+  "yday":53,
+  "hour":19,
+  "min":"00",
+  "sec":0,
+  "isdst":"0",
+  "monthname":"February",
+  "monthname_short":"Feb",
+  "weekday_short":"Thu",
+  "weekday":"Thursday",
+  "ampm":"PM",
+  "tz_short":"PST",
+  "tz_long":"America/Los_Angeles"
+},
+    "period":5,
+    "high": {
+    "fahrenheit":"26",
+    "celsius":"-3"
+    },
+    "low": {
+    "fahrenheit":"16",
+    "celsius":"-9"
+    },
+    "conditions":"Snow",
+    "icon":"snow",
+    "icon_url":"http://icons.wxug.com/i/c/k/snow.gif",
+    "skyicon":"",
+    "pop":60,
+    "qpf_allday": {
+    "in": 0.34,
+    "mm": 9
+    },
+    "qpf_day": {
+    "in": 0.16,
+    "mm": 4
+    },
+    "qpf_night": {
+    "in": 0.18,
+    "mm": 5
+    },
+    "snow_allday": {
+    "in": 4.4,
+    "cm": 11.2
+    },
+    "snow_day": {
+    "in": 1.8,
+    "cm": 4.6
+    },
+    "snow_night": {
+    "in": 2.5,
+    "cm": 6.3
+    },
+    "maxwind": {
+    "mph": 10,
+    "kph": 16,
+    "dir": "NNW",
+    "degrees": 331
+    },
+    "avewind": {
+    "mph": 8,
+    "kph": 13,
+    "dir": "NNW",
+    "degrees": 331
+    },
+    "avehumidity": 89,
+    "maxhumidity": 0,
+    "minhumidity": 0
+    }
+    ,
+    {"date":{
+  "epoch":"1487991600",
+  "pretty":"7:00 PM PST on February 24, 2017",
+  "day":24,
+  "month":2,
+  "year":2017,
+  "yday":54,
+  "hour":19,
+  "min":"00",
+  "sec":0,
+  "isdst":"0",
+  "monthname":"February",
+  "monthname_short":"Feb",
+  "weekday_short":"Fri",
+  "weekday":"Friday",
+  "ampm":"PM",
+  "tz_short":"PST",
+  "tz_long":"America/Los_Angeles"
+},
+    "period":6,
+    "high": {
+    "fahrenheit":"26",
+    "celsius":"-3"
+    },
+    "low": {
+    "fahrenheit":"17",
+    "celsius":"-8"
+    },
+    "conditions":"Snow Showers",
+    "icon":"snow",
+    "icon_url":"http://icons.wxug.com/i/c/k/snow.gif",
+    "skyicon":"",
+    "pop":60,
+    "qpf_allday": {
+    "in": 0.17,
+    "mm": 4
+    },
+    "qpf_day": {
+    "in": 0.17,
+    "mm": 4
+    },
+    "qpf_night": {
+    "in": 0.00,
+    "mm": 0
+    },
+    "snow_allday": {
+    "in": 2.0,
+    "cm": 5.1
+    },
+    "snow_day": {
+    "in": 2.0,
+    "cm": 5.1
+    },
+    "snow_night": {
+    "in": 0.0,
+    "cm": 0.0
+    },
+    "maxwind": {
+    "mph": 10,
+    "kph": 16,
+    "dir": "E",
+    "degrees": 85
+    },
+    "avewind": {
+    "mph": 7,
+    "kph": 11,
+    "dir": "E",
+    "degrees": 85
+    },
+    "avehumidity": 79,
+    "maxhumidity": 0,
+    "minhumidity": 0
+    }
+    ,
+    {"date":{
+  "epoch":"1488078000",
+  "pretty":"7:00 PM PST on February 25, 2017",
+  "day":25,
+  "month":2,
+  "year":2017,
+  "yday":55,
+  "hour":19,
+  "min":"00",
+  "sec":0,
+  "isdst":"0",
+  "monthname":"February",
+  "monthname_short":"Feb",
+  "weekday_short":"Sat",
+  "weekday":"Saturday",
+  "ampm":"PM",
+  "tz_short":"PST",
+  "tz_long":"America/Los_Angeles"
+},
+    "period":7,
+    "high": {
+    "fahrenheit":"27",
+    "celsius":"-3"
+    },
+    "low": {
+    "fahrenheit":"18",
+    "celsius":"-8"
+    },
+    "conditions":"Clear",
+    "icon":"clear",
+    "icon_url":"http://icons.wxug.com/i/c/k/clear.gif",
+    "skyicon":"",
+    "pop":20,
+    "qpf_allday": {
+    "in": 0.17,
+    "mm": 4
+    },
+    "qpf_day": {
+    "in": 0.00,
+    "mm": 0
+    },
+    "qpf_night": {
+    "in": 0.17,
+    "mm": 4
+    },
+    "snow_allday": {
+    "in": 2.2,
+    "cm": 5.6
+    },
+    "snow_day": {
+    "in": 0.0,
+    "cm": 0.0
+    },
+    "snow_night": {
+    "in": 2.2,
+    "cm": 5.6
+    },
+    "maxwind": {
+    "mph": 10,
+    "kph": 16,
+    "dir": "NE",
+    "degrees": 43
+    },
+    "avewind": {
+    "mph": 8,
+    "kph": 13,
+    "dir": "NE",
+    "degrees": 43
+    },
+    "avehumidity": 69,
+    "maxhumidity": 0,
+    "minhumidity": 0
+    }
+    ,
+    {"date":{
+  "epoch":"1488164400",
+  "pretty":"7:00 PM PST on February 26, 2017",
+  "day":26,
+  "month":2,
+  "year":2017,
+  "yday":56,
+  "hour":19,
+  "min":"00",
+  "sec":0,
+  "isdst":"0",
+  "monthname":"February",
+  "monthname_short":"Feb",
+  "weekday_short":"Sun",
+  "weekday":"Sunday",
+  "ampm":"PM",
+  "tz_short":"PST",
+  "tz_long":"America/Los_Angeles"
+},
+    "period":8,
+    "high": {
+    "fahrenheit":"28",
+    "celsius":"-2"
+    },
+    "low": {
+    "fahrenheit":"17",
+    "celsius":"-8"
+    },
+    "conditions":"Snow",
+    "icon":"snow",
+    "icon_url":"http://icons.wxug.com/i/c/k/snow.gif",
+    "skyicon":"",
+    "pop":70,
+    "qpf_allday": {
+    "in": 0.37,
+    "mm": 9
+    },
+    "qpf_day": {
+    "in": 0.26,
+    "mm": 7
+    },
+    "qpf_night": {
+    "in": 0.11,
+    "mm": 3
+    },
+    "snow_allday": {
+    "in": 4.5,
+    "cm": 11.4
+    },
+    "snow_day": {
+    "in": 3.0,
+    "cm": 7.6
+    },
+    "snow_night": {
+    "in": 1.5,
+    "cm": 3.8
+    },
+    "maxwind": {
+    "mph": 10,
+    "kph": 16,
+    "dir": "W",
+    "degrees": 263
+    },
+    "avewind": {
+    "mph": 9,
+    "kph": 14,
+    "dir": "W",
+    "degrees": 263
+    },
+    "avehumidity": 75,
+    "maxhumidity": 0,
+    "minhumidity": 0
+    }
+    ,
+    {"date":{
+  "epoch":"1488250800",
+  "pretty":"7:00 PM PST on February 27, 2017",
+  "day":27,
+  "month":2,
+  "year":2017,
+  "yday":57,
+  "hour":19,
+  "min":"00",
+  "sec":0,
+  "isdst":"0",
+  "monthname":"February",
+  "monthname_short":"Feb",
+  "weekday_short":"Mon",
+  "weekday":"Monday",
+  "ampm":"PM",
+  "tz_short":"PST",
+  "tz_long":"America/Los_Angeles"
+},
+    "period":9,
+    "high": {
+    "fahrenheit":"26",
+    "celsius":"-3"
+    },
+    "low": {
+    "fahrenheit":"15",
+    "celsius":"-9"
+    },
+    "conditions":"Snow Showers",
+    "icon":"snow",
+    "icon_url":"http://icons.wxug.com/i/c/k/snow.gif",
+    "skyicon":"",
+    "pop":60,
+    "qpf_allday": {
+    "in": 0.24,
+    "mm": 6
+    },
+    "qpf_day": {
+    "in": 0.17,
+    "mm": 4
+    },
+    "qpf_night": {
+    "in": 0.08,
+    "mm": 2
+    },
+    "snow_allday": {
+    "in": 2.9,
+    "cm": 7.4
+    },
+    "snow_day": {
+    "in": 1.9,
+    "cm": 4.8
+    },
+    "snow_night": {
+    "in": 1.0,
+    "cm": 2.5
+    },
+    "maxwind": {
+    "mph": 15,
+    "kph": 24,
+    "dir": "N",
+    "degrees": 349
+    },
+    "avewind": {
+    "mph": 10,
+    "kph": 16,
+    "dir": "N",
+    "degrees": 349
+    },
+    "avehumidity": 82,
+    "maxhumidity": 0,
+    "minhumidity": 0
+    }
+    ,
+    {"date":{
+  "epoch":"1488337200",
+  "pretty":"7:00 PM PST on February 28, 2017",
+  "day":28,
+  "month":2,
+  "year":2017,
+  "yday":58,
+  "hour":19,
+  "min":"00",
+  "sec":0,
+  "isdst":"0",
+  "monthname":"February",
+  "monthname_short":"Feb",
+  "weekday_short":"Tue",
+  "weekday":"Tuesday",
+  "ampm":"PM",
+  "tz_short":"PST",
+  "tz_long":"America/Los_Angeles"
+},
+    "period":10,
+    "high": {
+    "fahrenheit":"27",
+    "celsius":"-3"
+    },
+    "low": {
+    "fahrenheit":"19",
+    "celsius":"-7"
+    },
+    "conditions":"Snow Showers",
+    "icon":"snow",
+    "icon_url":"http://icons.wxug.com/i/c/k/snow.gif",
+    "skyicon":"",
+    "pop":40,
+    "qpf_allday": {
+    "in": 0.17,
+    "mm": 4
+    },
+    "qpf_day": {
+    "in": 0.07,
+    "mm": 2
+    },
+    "qpf_night": {
+    "in": 0.09,
+    "mm": 2
+    },
+    "snow_allday": {
+    "in": 2.0,
+    "cm": 5.1
+    },
+    "snow_day": {
+    "in": 0.8,
+    "cm": 2.0
+    },
+    "snow_night": {
+    "in": 1.2,
+    "cm": 3.0
+    },
+    "maxwind": {
+    "mph": 15,
+    "kph": 24,
+    "dir": "WNW",
+    "degrees": 299
+    },
+    "avewind": {
+    "mph": 10,
+    "kph": 16,
+    "dir": "WNW",
+    "degrees": 299
+    },
+    "avehumidity": 84,
+    "maxhumidity": 0,
+    "minhumidity": 0
+    }
+    ]
+    }
+  }
+}
